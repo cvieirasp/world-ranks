@@ -72,7 +72,7 @@ const Layout = ({ children, title = "Rankings Mundiais" }) => {
       </main>
 
       <footer className={styles.footer}>
-        Carlos Figueiredo @ devchallenges.io
+        Carlos Figueiredo by @devchallenges.io
       </footer>
     </div>
   );
