@@ -1,6 +1,7 @@
-## World Ranks
+# World Ranks
 
 Aplicação que exibe os principais dados dos países de todo o mundo, desenvolvida utilizando React e Next.js.
+
 *Tutorial: [Thu Nghiem](https://www.youtube.com/watch?v=v8o9iJU5hEA&ab_channel=ThuNghiem)*
 
 ## Recursos
